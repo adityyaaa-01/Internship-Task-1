@@ -31,4 +31,4 @@ A clean and preprocessed Titanic dataset, ready for model building or explorator
 
 Aditya Singh  
 AI & ML Intern  
-[LinkedIn](linkedin.com/in/aditya-singh-5927871ab)
+[LinkedIn]( https://linkedin.com/in/aditya-singh-5927871ab)
